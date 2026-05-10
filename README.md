@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**frieda-dev/frieda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **frieda-dev**, a passionate developer on GitHub!
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I'm currently working on various projects
+- 🌱 I'm constantly learning and improving my skills
+- 👯 I'm open to collaborating on interesting projects
+- 💬 Feel free to ask me about software development
+- 📫 **How to reach me:** Check out my GitHub profile
+- 😄 **Pronouns:** They/them
+- ⚡ **Fun fact:** I love exploring new technologies and contributing to the open source community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+- **Username:** frieda-dev
+- **Repository ID:** 1234354767
+- **Profile:** [Visit my GitHub](https://github.com/frieda-dev)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.

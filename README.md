@@ -13,7 +13,6 @@ I'm **frieda-dev**, a passionate developer on GitHub!
 
 ### GitHub Stats
 - **Username:** frieda-dev
-- **Repository ID:** 1234354767
 - **Profile:** [Visit my GitHub](https://github.com/frieda-dev)
 
 ---
